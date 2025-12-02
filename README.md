@@ -10,4 +10,3 @@ https://github.com/AmbikaA1223
 - 💬 Ask me about c programming, python.
 - 📫 How to reach me: ambikahalesh321@gmail.com
 - 😄 Pronouns:she/her
--->
