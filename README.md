@@ -9,4 +9,4 @@ https://github.com/AmbikaA1223
 - 🤔 I’m looking for help with debugging this code. 
 - 💬 Ask me about c programming, python.
 - 📫 How to reach me: ambikahalesh321@gmail.com
-- 😄 Pronouns:she/her
+- 😄 Pronouns:she/her. 
